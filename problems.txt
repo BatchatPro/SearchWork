@@ -1,0 +1,3 @@
+settings 109
+
+work with static files
